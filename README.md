@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-</body>
+
     <h1 align="center">Biodata Diri</h1>
     <hr width="600px">
     <table align="center" cellpadding="10px" width="600px">
@@ -47,5 +47,5 @@
             <td>: Menyanyi, Berolahraga</td>
         </tr>
     </table>   
-</body>
+
 </html>
